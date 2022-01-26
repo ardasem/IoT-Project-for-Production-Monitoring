@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ProgressCircle.qml</file>
+        <file>FirstPage.qml</file>
+        <file>MainPage.qml</file>
+        <file>LoadingPage.qml</file>
+        <file>BreakPage.qml</file>
+        <file>ListPage.qml</file>
+        <file>StartPage.qml</file>
+        <file>BatchPage.qml</file>
+        <file>WorkOrderFinished.qml</file>
+    </qresource>
+</RCC>

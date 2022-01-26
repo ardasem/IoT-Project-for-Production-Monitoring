@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/466667-200.png</file>
+        <file>images/coffeelogo.png</file>
+        <file>images/gplogo.png</file>
+        <file>images/rfidlogo.png</file>
+        <file>images/stldummy.jpg</file>
+        <file>images/vslot_universal_plate_mini.stl</file>
+        <file>images/bg-hi.jpg</file>
+        <file>images/4.jpg</file>
+        <file>images/klemschelle.png</file>
+        <file>images/box.png</file>
+        <file>images/T-Stuck.jpg</file>
+    </qresource>
+</RCC>
